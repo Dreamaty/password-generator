@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 /* 
-Генератор паролей
+Password generator
 */
 
 public class Solution {
